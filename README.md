@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ninR-137
 - 👀 I’m interested in just getting lost in work because I have weird suicidal tendencies, and the  only time Im happy is within flow state
-- 🌱 I’m currently learning anything that is interesting, mostly android development because my computer is very fucking old
-- 💞️ I’m looking to collaborate on pretty much anything
+- 🌱 I’m currently learning anything that is interesting, mostly android development because I have a very strong backround in Java, but most Object Oriented Programming languages I can grasp pretty easily at this point.
+- 💞️ I’m looking to collaborate on pretty much anything.
 - 📫 How to reach me : ninpspod@gmail.com
 
 <!---
